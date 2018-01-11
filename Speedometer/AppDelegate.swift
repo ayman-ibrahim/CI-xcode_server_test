@@ -4,7 +4,7 @@
 //
 //  Created by Mark DiFranco on 4/3/17.
 //  Copyright © 2017 Mark DiFranco. All rights reserved.
-// test s
+//
 
 import UIKit
 import SwinjectStoryboard
@@ -66,4 +66,4 @@ extension AppDelegate: SPDLocationAuthorizationDelegate {
         
         window?.rootViewController?.present(alertController, animated: true, completion: nil)
     }
-
+}
