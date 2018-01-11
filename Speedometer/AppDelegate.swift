@@ -66,4 +66,4 @@ extension AppDelegate: SPDLocationAuthorizationDelegate {
         
         window?.rootViewController?.present(alertController, animated: true, completion: nil)
     }
-}
+
